@@ -8,8 +8,8 @@ app = Flask(__name__)
 
 # --- ⚠️ 중요: 네이버 API 인증 정보 입력 ⚠️ ---
 # 실제 값으로 대체해야 합니다!
-CLIENT_ID = "rp4gWjzI5KM1csxw_vrG" 
-CLIENT_SECRET = ""
+CLIENT_ID = "iFC6lqDPEXSOe6UJTrY4" 
+CLIENT_SECRET = "1MOtDOFcu8"
 # ---------------------------------------------
 
 # 네이버 블로그 검색 API URL
